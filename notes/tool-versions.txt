@@ -28,3 +28,4 @@ jupyterlab==4.6.6
 Git updated 2026-11-10 08:07 PST: git version 2.56.0, path /opt/homebrew/bin/git
 PostgreSQL: psql (PostgreSQL) 18.6 (Homebrew), Homebrew formula postgresql@18 18.6_1, recorded 2026-11-10 08:12 PST
 Setup note: database ai4i uses the local macOS user over a local socket; no separate password-protected role.
+Repository: https://github.com/Jgrandjean03/D502-capstone (public), initial commit d20ed74, recorded 2026-11-10 08:26 PST
