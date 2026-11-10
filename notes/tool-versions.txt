@@ -1,0 +1,30 @@
+Tool versions, recorded 2026-11-10 08:04 PST
+
+== System ==
+ProductName:		macOS
+ProductVersion:		27.0.1
+BuildVersion:		26A434
+arm64
+
+== Tools ==
+Homebrew 7.0.13
+uv 0.13.7 (Homebrew 2026-11-03 aarch64-apple-darwin)
+git version 2.39.2
+/Library/Developer/CommandLineTools
+version: 27.2.0.0.1792721180
+Python 3.12.16
+
+== Core packages ==
+matplotlib==3.11.2
+numpy==2.5.4
+pandas==3.1.1
+psycopg==3.3.8
+scikit-learn==1.9.1
+scipy==1.18.1
+sqlalchemy==2.1.8
+statsmodels==0.15.0
+ipykernel==7.4.0
+jupyterlab==4.6.6
+Git updated 2026-11-10 08:07 PST: git version 2.56.0, path /opt/homebrew/bin/git
+PostgreSQL: psql (PostgreSQL) 18.6 (Homebrew), Homebrew formula postgresql@18 18.6_1, recorded 2026-11-10 08:12 PST
+Setup note: database ai4i uses the local macOS user over a local socket; no separate password-protected role.
