@@ -1,0 +1,6 @@
+-[ RECORD 1 ]--------+------
+total_rows           | 10000
+distinct_udi         | 10000
+distinct_product_id  | 10000
+identical_row_groups | 0
+

@@ -1,0 +1,15 @@
+-[ RECORD 1 ]---------------+----
+twf_total                   | 46
+hdf_total                   | 115
+pwf_total                   | 95
+osf_total                   | 98
+rnf_total                   | 19
+flag_total                  | 373
+rows_with_any_flag          | 348
+rows_with_multiple_flags    | 24
+b_failure_no_flag           | 9
+any_flag_label_0            | 18
+a_random_only               | 18
+c_random_flag_label_0       | 18
+failure_with_nonrandom_flag | 330
+

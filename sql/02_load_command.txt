@@ -1,0 +1,2 @@
+-- Run once from the project folder, after sql/01_create_table.sql:
+psql -d ai4i -c "\copy ai4i FROM data/raw/ai4i2020.csv CSV HEADER"

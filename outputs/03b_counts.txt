@@ -1,0 +1,23 @@
+ row_count 
+-----------
+     10000
+(1 row)
+
+                     Table "public.ai4i"
+     Column      |   Type   | Collation | Nullable | Default 
+-----------------+----------+-----------+----------+---------
+ udi             | integer  |           |          | 
+ product_id      | text     |           |          | 
+ type            | text     |           |          | 
+ air_temp_k      | numeric  |           |          | 
+ process_temp_k  | numeric  |           |          | 
+ rot_speed_rpm   | integer  |           |          | 
+ torque_nm       | numeric  |           |          | 
+ tool_wear_min   | integer  |           |          | 
+ machine_failure | smallint |           |          | 
+ twf             | smallint |           |          | 
+ hdf             | smallint |           |          | 
+ pwf             | smallint |           |          | 
+ osf             | smallint |           |          | 
+ rnf             | smallint |           |          | 
+

@@ -1,0 +1,28 @@
+-[ RECORD 1 ]----+------
+udi_min          | 1
+udi_max          | 10000
+air_temp_min     | 295.3
+air_temp_max     | 304.5
+process_temp_min | 305.7
+process_temp_max | 313.8
+speed_min        | 1168
+speed_max        | 2886
+torque_min       | 3.8
+torque_max       | 76.6
+wear_min         | 0
+wear_max         | 253
+failure_min      | 0
+failure_max      | 1
+twf_min          | 0
+twf_max          | 1
+hdf_min          | 0
+hdf_max          | 1
+pwf_min          | 0
+pwf_max          | 1
+osf_min          | 0
+osf_max          | 1
+rnf_min          | 0
+rnf_max          | 1
+pid_len_min      | 6
+pid_len_max      | 6
+

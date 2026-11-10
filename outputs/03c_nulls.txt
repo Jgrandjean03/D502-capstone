@@ -1,0 +1,18 @@
+-[ RECORD 1 ]----+--
+udi              | 0
+product_id       | 0
+type             | 0
+air_temp_k       | 0
+process_temp_k   | 0
+rot_speed_rpm    | 0
+torque_nm        | 0
+tool_wear_min    | 0
+machine_failure  | 0
+twf              | 0
+hdf              | 0
+pwf              | 0
+osf              | 0
+rnf              | 0
+product_id_empty | 0
+type_empty       | 0
+
