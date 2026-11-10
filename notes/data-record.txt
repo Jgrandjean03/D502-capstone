@@ -1,0 +1,19 @@
+Data file record
+
+Dataset: AI4I 2020 Predictive Maintenance Dataset, UCI Machine Learning Repository (dataset 601)
+Page: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
+DOI: 10.24432/C5HS5C
+License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Citation (as given on the UCI page): AI4I 2020 Predictive Maintenance Dataset [Dataset]. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5HS5C.
+
+Download: zip saved 2026-11-10 08:29 PST
+Zip file: ai4i+2020+predictive+maintenance+dataset.zip, 522170 bytes
+Zip SHA-256: f601f14294bcf190f9d720676b7f0aea46a26cde9ab8ebc7b4f8174d9d26b252
+
+CSV file: ai4i2020.csv, 522048 bytes, 10001 lines (header plus 10000 rows)
+CSV SHA-256: dc6630cd9b1f0f853922fad78a1b6436570d3f1ec863f1dd5c4340ac56bc8a8e
+CSV internal timestamp inside the zip: 05-22-2023 15:20
+
+Checks: the checksum of the CSV inside the zip equals the checksum of data/raw/ai4i2020.csv. The raw file is set read-only and is never edited.
+
+Header check, 2026-11-10: the file header names the first column UDI, not UID as the UCI variable table says. 14 columns: UDI, Product ID, Type, Air temperature [K], Process temperature [K], Rotational speed [rpm], Torque [Nm], Tool wear [min], Machine failure, TWF, HDF, PWF, OSF, RNF. The file command reports CSV text with no byte-order mark or Windows line endings flagged.

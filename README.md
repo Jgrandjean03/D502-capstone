@@ -24,3 +24,9 @@ Analysis of the AI4I 2020 Predictive Maintenance dataset.
 - notebooks: display notebook
 - outputs: result files
 - notes: setup and planning notes
+
+## Citation
+
+AI4I 2020 Predictive Maintenance Dataset [Dataset]. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5HS5C.
+
+Downloaded 2026-11-10 from https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset. File record: notes/data-record.txt
