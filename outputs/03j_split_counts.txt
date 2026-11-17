@@ -1,0 +1,10 @@
+-[ RECORD 1 ]----+------
+train_rows       | 7900
+train_failures   | 298
+gap_rows         | 100
+gap_failures     | 2
+test_rows        | 2000
+test_failures    | 39
+first80_rate_pct | 3.750
+last20_rate_pct  | 1.950
+
