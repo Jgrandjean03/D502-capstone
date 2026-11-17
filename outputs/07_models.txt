@@ -1,0 +1,19 @@
+Train rows: 7900, failures: 298
+Test rows: 2000, failures: 39
+Training failures per input (10 inputs): 29.8
+
+row 1 raw (7 inputs)
+  PR-AUC (average precision): 0.4202
+  Precision at 0.5: 0.2874
+  Recall at 0.5: 0.6410
+  Alerts: 87, caught: 25
+row 2 engineered (10 inputs)
+  PR-AUC (average precision): 0.3835
+  Precision at 0.5: 0.2033
+  Recall at 0.5: 0.6410
+  Alerts: 123, caught: 25
+
+No-skill PR-AUC floor (test failure rate): 0.0195
+Always 'no failure' recall: 0
+Test failures with no rule flag: 2
+Recall ceiling: 0.9487
