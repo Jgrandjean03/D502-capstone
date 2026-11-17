@@ -1,0 +1,6 @@
+Table rows: 10000
+Table columns: 14
+CSV rows: 10000
+CSV first UDI: 1
+CSV last UDI: 10000
+CSV UDI runs 1 to 10000 in file order with no gaps: True
