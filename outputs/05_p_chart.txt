@@ -1,0 +1,6 @@
+Groups: 25 of 400 rows
+Center line: 0.0339
+Sigma: 0.009049
+Lower limit: 0.0068
+Upper limit: 0.0610
+Groups outside limits: [11, 12]
